@@ -9,7 +9,7 @@
 
 - 📫 Para entrar em contato **victorh.laune@gmail.com**
 
-- ⚡ Fun fact **Treinador de Futebol licenciado pela AFA**
+- ⚡ Curiosidade sobre mim **Treinador de Futebol licenciado pela AFA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
