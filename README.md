@@ -5,7 +5,7 @@
 
 - 🔭 Buscando oportunidades como **Engenheiro de Dados**
 
-- 🌱 Atualmente aprendendo **Modelagem de Dados, Cloud**
+- 🌱 Atualmente aprendendo **AWS, Docker e Airflow**
 
 - 📫 Para entrar em contato **victorh.laune@gmail.com**
 
