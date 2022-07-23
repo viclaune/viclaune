@@ -3,8 +3,8 @@
 Welcome to my GitHub, I am Victor Launé, Data Engineer
 
 <div>
-   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=viclaune&show_icons=true&theme=dracula"/>
-   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viclaune&layout=compact&theme=dracula"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=viclaune&show_icons=true&theme=dracula"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viclaune&layout=compact&theme=dracula"/>
 </div>
 
 ### 📥 Let's get connected:
